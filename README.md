@@ -1,8 +1,9 @@
 ### Hi there 👋 I am Nathan Gurses from CANADA
 
+Senior Software Automation Engineer.
+
 Welcome to my github page
 
-Senior Software Automation Engineer.
 
 
 
