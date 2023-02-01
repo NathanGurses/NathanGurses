@@ -24,9 +24,6 @@ Welcome to my github page
 	<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
 			<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="60" height="60"/> 
 		</a> 
-	<a href="https://www.jira" target="_blank" rel="noreferrer"> 
-			<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/jira-logo.svg" alt="jira" width="60" height="60"/> 
-		</a> 
 	<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> 
 	</a> 
