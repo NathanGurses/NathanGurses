@@ -2,7 +2,7 @@
 
 Welcome to my github page
 
-I have been working as a Software Automation Engineer.
+Senior Software Automation Engineer.
 
 
 
