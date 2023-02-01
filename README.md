@@ -1,4 +1,8 @@
-### Hi there 👋 I am Nathan Gurses
+### Hi there 👋 I am Nathan Gurses from CANADA
+
+Welcome to my github page
+
+I have been working as a Software Automation Engineer.
 
 
 
